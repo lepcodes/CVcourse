@@ -1,5 +1,5 @@
 # cursoVR
-Curso: I9917 Visión Robótica
+Curso: I9917 Visión Robótica <br/> 
 Dr. Javier Enrique Gómez Avila
 
 * Práctica 1: Fundamentos del PDI
